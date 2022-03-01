@@ -1,0 +1,5 @@
+*.txz
+*.pat
+*.img
+custom/
+custom_config.json
